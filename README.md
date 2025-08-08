@@ -1,6 +1,6 @@
-A simple Python script to generate secure and random passwords using letters, digits, and punctuation.
+A simple Python script to generate secure and random passwords using letters, digits, and punctuation.    
 
-📜 Features
+Features
 Generates a random password of any length (default is 10 characters).
 
 Uses letters, numbers, and special characters for strong security.
